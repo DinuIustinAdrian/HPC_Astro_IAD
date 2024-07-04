@@ -1,0 +1,64 @@
+[bld15:2525953] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525949] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525942] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220243] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525943] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220245] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220253] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525950] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525947] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220237] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525940] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220234] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220247] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525944] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525951] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220240] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525946] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220252] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525941] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220244] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525954] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220241] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525945] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220238] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220235] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525961] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525965] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220242] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld15:2525958] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220248] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220236] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220239] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.0': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.1': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.2': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.3': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.4': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.5': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.6': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.7': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.8': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.9': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.10': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.11': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.12': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.13': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.14': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.15': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.16': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.17': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.18': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.19': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.20': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.21': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.22': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.23': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.24': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.25': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.26': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.27': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.28': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.29': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.30': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N64/L50_N64_32/restart.31': No such file or directory

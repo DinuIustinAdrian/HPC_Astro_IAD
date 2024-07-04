@@ -1,0 +1,13 @@
+#!/bin/bash
+#SBATCH --partition=b4
+#SBATCH --time=02:00:00
+#SBATCH --nodes=1
+#SBATCH --ntasks=16          ## number of processors
+#SBATCH --mem-per-cpu=1G     ## ram per cpu (to be tuned)
+#SBATCH --output=outputs/LXX_NYY/LXX_NYY_ZZ/lcdm_dm_LXX_NYY_ZZ.out
+#SBATCH --error=outputs/LXX_NYY/LXX_NYY_ZZ/lcdm_dm_LXX_NYY_ZZ.err
+
+module load mpi/openmpi/4.1.4
+module load astro/gsl/2.7.1
+module load astro/fftw/2.1.5
+

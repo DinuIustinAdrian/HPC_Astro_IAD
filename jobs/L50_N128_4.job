@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH --partition=b4
+#SBATCH --time=10:00:00
+#SBATCH --nodes=1
+#SBATCH --ntasks=4          ## number of processors
+#SBATCH --mem-per-cpu=1G     ## ram per cpu (to be tuned)
+#SBATCH --output=outputs/L50_N128/L50_N128_4/lcdm_dm_L50_N128_4.out
+#SBATCH --error=outputs/L50_N128/L50_N128_4/lcdm_dm_L50_N128_4.err
+
+module load mpi/openmpi/4.1.4
+module load astro/gsl/2.7.1
+module load astro/fftw/2.1.5
+
+mpirun /home/STUDENTI/iustinadrian.dinu/vediamo/executables/gadget2_L50_N128_4 /home/STUDENTI/iustinadrian.dinu/vediamo/parameterfiles/L50_N128_4.param

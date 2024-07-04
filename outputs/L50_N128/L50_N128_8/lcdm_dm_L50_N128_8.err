@@ -1,0 +1,16 @@
+[bld16:2220788] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220793] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220792] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220796] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220798] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220800] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220791] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+[bld16:2220794] mca_base_component_repository_open: unable to open mca_btl_vader: libxpmem.so.0: cannot open shared object file: No such file or directory (ignored)
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N128/L50_N128_8/restart.0': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N128/L50_N128_8/restart.1': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N128/L50_N128_8/restart.2': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N128/L50_N128_8/restart.3': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N128/L50_N128_8/restart.4': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N128/L50_N128_8/restart.5': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N128/L50_N128_8/restart.6': No such file or directory
+mv: cannot stat '/home/STUDENTI/iustinadrian.dinu/vediamo/outputs/L50_N128/L50_N128_8/restart.7': No such file or directory
