@@ -1,7 +1,7 @@
 # 🖥️ HPC_EXAM Simulation Management Script
 
 This Bash script is designed to manage astrophysical simulations for HPC environments using the Gadget2 code. It supports compiling executables, configuring parameter files, submitting SLURM jobs, and reviewing simulation results.
-
+## THE CODE WILL RUN ONLY ON THE UNIVERSITY OF BOLOGNA DIFA CLUSTER!!! (But with small modification can run everywhere? I hope)
 ---
 
 ## 📁 Directory Structure
